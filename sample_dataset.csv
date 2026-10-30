@@ -1,0 +1,11 @@
+ID,Age,Gender,Income,Occupation,Years_Employed,Satisfaction_Level,Purchase_History
+1,25,Male,50000,Engineer,2,0.8,High
+2,37,Female,62000,Data Scientist,5,,Medium
+3,,Male,45000,,3,0.6,Low
+4,29,Female,54000,Product Manager,,0.7,High
+5,42,Male,,Sales,7,0.5,Low
+6,55,Female,100000,Executive,30,0.9,High
+7,23,Male,52000,Analyst,1,0.4,Medium
+8,29,Female,70000,Product Manager,6,0.7,High
+9,,Male,20000,,2,0.3,Low
+10,45,Female,85000,Executive,, ,High
